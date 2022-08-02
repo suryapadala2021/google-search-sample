@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.sug {
+  color: #64748b;
+  font-family: 'Roboto';
+  flex-grow: 1;
+}
+.image-arrow {
+  height: 25px;
+  width: 25px;
+}
+.list-item {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
